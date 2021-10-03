@@ -25,7 +25,12 @@ const User = (props) => {
     }, [user])
 
     return <div className="section">
-        <div className="container mt-5">
+        <div className="container">
+            <span className="" >
+                <button className="btn py-2 px-3" onClick={() => props.history.push('/')}>
+                    <i className="fa fa-undo"></i> Back
+                </button>
+            </span>
             <div className="row">
                 <div className="ml-auto mr-auto col-md-10 col-xl-6">
                     <div className="card">
