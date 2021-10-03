@@ -7,10 +7,10 @@ backend is Github REST API
 
 <br />
 
-Commands:-
-  1: yarn install or npm install to install all the required dependencies
-  2: yarn start or npm start to run the app on local machine
-  3: yarn build or npm run build to build that app for deployments.
+Commands:-<br />
+  1: yarn install or npm install to install all the required dependencies<br />
+  2: yarn start or npm start to run the app on local machine<br />
+  3: yarn build or npm run build to build that app for deployments.<br />
   
   
 
